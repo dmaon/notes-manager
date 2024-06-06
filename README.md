@@ -10,6 +10,7 @@ This is a simple notes manager application built using React. It allows users to
 - Delete Notes: Users can delete notes permanently.
 - Note List: The application displays a list of all notes, including their titles and creation dates.
 - RTL Support: The application's UI components are designed to be RTL-friendly, allowing users to easily switch between LTR (Left-to-Right) and RTL themes.
+- Dark/Light Theme: Users can switch between a dark and light theme to personalize their experience.
 
 ## Installation
 Clone the repository:
